@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T07:53:36.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JEBHK3XPP8N9urk3ioAr" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T07:58:08.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="93DKJw7ICrONBgGCK1c9" version="18.1.1" type="github">
   <diagram id="81uME0v_SdTt5G_1mmom" name="Page-1">
     <mxGraphModel dx="1865" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,6 +34,11 @@
         <mxCell id="ViLJeWpKBGT1337kWEhf-43" value="Response" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.752;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ViLJeWpKBGT1337kWEhf-5" target="ViLJeWpKBGT1337kWEhf-39">
           <mxGeometry x="0.3797" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViLJeWpKBGT1337kWEhf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ViLJeWpKBGT1337kWEhf-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ViLJeWpKBGT1337kWEhf-5" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;E-Testing &lt;br&gt;Service&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -177,14 +182,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ViLJeWpKBGT1337kWEhf-32" value="Publish Result&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=1.015;entryDx=0;entryDy=0;fontSize=12;entryPerimeter=0;" edge="1" parent="1" source="ViLJeWpKBGT1337kWEhf-33" target="ViLJeWpKBGT1337kWEhf-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="405" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ViLJeWpKBGT1337kWEhf-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;System&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="550" y="360" width="140" height="80" as="geometry" />
         </mxCell>
@@ -221,6 +218,17 @@
         </mxCell>
         <mxCell id="ViLJeWpKBGT1337kWEhf-44" value="Record Video" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="440" y="-70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ViLJeWpKBGT1337kWEhf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.415;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ViLJeWpKBGT1337kWEhf-47" target="ViLJeWpKBGT1337kWEhf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="380" />
+              <mxPoint x="382" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViLJeWpKBGT1337kWEhf-47" value="Publish &lt;br&gt;Result" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
